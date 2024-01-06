@@ -1,0 +1,13 @@
+body{
+  margin: 0px;
+  padding: 0px;
+}
+
+div{
+  text-align: center;
+}
+
+ol{
+  text-align: center;
+  list-style: none;
+}
